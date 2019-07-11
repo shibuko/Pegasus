@@ -712,7 +712,10 @@ HADのテスト実施に必要な計測機器を準備する。
 ## テストコースでのテスト
 選択済みのテストケースをテストコースの実際の条件下で実装して検証する
 
+# 19a. Tools for Proving Ground and Field Tests Localization and Collision Avoidance
 
+## システムアーキテクチャ、アルゴリズム、ソフトウェア、およびハードウェア
+iMAR Navigation社は
 
 
 
